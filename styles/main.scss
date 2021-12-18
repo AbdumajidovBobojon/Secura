@@ -2,11 +2,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 @import "./utils/fonts";
 @import "./utils/variables";
 @import "./sections/section-1";
+@import "./sections/section-2";
+@import "./sections/section-3";
+@import "./sections/section-4";
+@import "./sections/section-5";
+@import "./sections/section-6";
+@import "./sections/footer";
 
 body {
     font-family: "Poppins Regular";

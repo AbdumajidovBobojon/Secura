@@ -1,0 +1,85 @@
+.section-3 {
+    padding: 0 100px;
+
+    .car-key {
+        display: flex;
+
+        .key-img {
+            img {
+                margin-top: 50px;
+                margin: 100px 50px;
+                width: 400px;
+                height: 350px;
+
+            }
+        }
+
+        .key-type {
+            margin-left: 50px;
+            h4 {
+                font-style: normal;
+                font-weight: 600;
+                font-size: 48px;
+                line-height: 134%;
+                color: #444444;
+
+            }
+
+            p {
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 200%;
+                color: #666666;
+
+            }
+
+            .row {
+                width: 440px;
+                height: 100px;
+                background: #FFFFFF;
+                box-shadow: 0px 30px 80px rgba(102, 102, 102, 0.08);
+                border-radius: 15px;
+                display: flex;
+                align-items: center;
+                gap: 20px;
+
+                img {
+                    margin-left: 20px;
+                }
+            }
+
+            .row {
+                margin-top: 10px;
+                width: 440px;
+                height: 100px;
+                background: #FFFFFF;
+                box-shadow: 0px 30px 80px rgba(102, 102, 102, 0.08);
+                border-radius: 15px;
+                display: flex;
+                align-items: center;
+                gap: 20px;
+
+                img {
+                    margin-left: 20px;
+                }
+            }
+
+            .row {
+                margin-top: 10px;
+                width: 440px;
+                height: 100px;
+                background: #FFFFFF;
+                box-shadow: 0px 30px 80px rgba(102, 102, 102, 0.08);
+                border-radius: 15px;
+                display: flex;
+                align-items: center;
+                gap: 20px;
+
+                img {
+                    margin-left: 20px;
+                }
+            }
+        }
+    }
+}
